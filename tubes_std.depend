@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1734620181 source:d:\kuliah\matkul\semester 3\struktur data\tugas\tugasbesar\code\tubes_std\transaksi.cpp
+	"header.h"
+
+1734581183 source:d:\kuliah\matkul\semester 3\struktur data\tugas\tugasbesar\code\tubes_std\main.cpp
+	"header.h"
+
+1734618635 d:\kuliah\matkul\semester 3\struktur data\tugas\tugasbesar\code\tubes_std\header.h
+	<iostream>
+
+1734581183 source:d:\kuliah\matkul\semester 3\struktur data\tugas\tugasbesar\code\14_103012300083_103012330531\main.cpp
+	"header.h"
+
+1734618635 d:\kuliah\matkul\semester 3\struktur data\tugas\tugasbesar\code\14_103012300083_103012330531\header.h
+	<iostream>
+
